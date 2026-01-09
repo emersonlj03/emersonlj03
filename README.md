@@ -72,8 +72,6 @@ Specialized in web platform optimization and data analysis. I have advanced skil
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 
 ## Estadísticas
-<div align="center" width="100">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=Danilo0306&theme=black-ice&hide_border=true"
-      alt="Emerson GitHub">
+<div align="center" width="100">    
+  <img       src="https://github-readme-streak-stats.herokuapp.com?user=emersonlj03&theme=black-ice&hide_border=true"       alt="Emerson GitHub"> 
 </div>
